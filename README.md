@@ -3,8 +3,8 @@ create rest APIusing Deno and  Mogo DB and typescript
 
 It is a demo project using Deno and mongodb. Here we used typescript for creating files. we use MVC pattern for creating the REST API. 
 
-to run deno deno use this command
-run --allow-write --allow-read --allow-plugin --allow-net --allow-env --unstable ./server.ts 
+to run deno use this command
+deno run --allow-write --allow-read --allow-plugin --allow-net --allow-env --unstable ./server.ts 
 
 reference website : https://dev.to/slimhmidi/create-a-server-with-deno-and-mongo-206l
 
